@@ -9,6 +9,7 @@ black = "*"
 deepgram-sdk = "*"
 google-search-results = "*"
 openai = "*"
+flask = "*"
 
 [dev-packages]
 
