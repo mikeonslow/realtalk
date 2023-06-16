@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langchain = "*"
+black = "*"
+deepgram-sdk = "*"
+google-search-results = "*"
+openai = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
